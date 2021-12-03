@@ -1,0 +1,5 @@
+to do list
+- create page that redirects to different pages (uses / instead of ? and make pages inside pages so you done have to know the 'index + a number'.)
+- find hosting service that takes sql servers + find out how to export server + settings (in case i want to host the site later).
+- find bugs and make more secure (find out how to get past sql injections) (banned characters for posts, usernames, pwds, and subs? + restrict # of characters)
+- remove ip column in credentials database
